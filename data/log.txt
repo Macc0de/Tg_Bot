@@ -1,0 +1,2 @@
+2025-08-29 14:36:41,976 Start polling.
+2025-08-29 14:39:03,637 Polling is stopped.
